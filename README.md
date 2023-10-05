@@ -20,21 +20,21 @@
     <b><i>Home Page</i></b><br>
     ———————————————————————————————————<br>
   </p>
-  <img src="public/assets/images/home page.jpg" alt="Fluffy Cafe Home Page">
+  <img src="public/assets/images/home page.png" alt="Fluffy Cafe Home Page">
   <br><br><br>
   <p>
     ———————————————————————————————————<br>
     <b><i>Top Menus Page</i></b><br>
     ———————————————————————————————————<br>
   </p>
-  <img src="public/assets/images/Top Menus.jpg" alt="Top Menus Page">
+  <img src="public/assets/images/Top Menus.png" alt="Top Menus Page">
   <br><br><br>
   <p>
     ———————————————————————————————————<br>
     <b><i>Operation Hours & Footer Page</i></b><br>
     ———————————————————————————————————<br>
   </p>
-  <img src="public/assets/images/Operation Hours.jpg" alt="Operation Hour & Footer Page">
+  <img src="public/assets/images/Operation Hours.png" alt="Operation Hour & Footer Page">
   <p>
   <br>
 </div>
