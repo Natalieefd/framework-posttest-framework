@@ -20,7 +20,7 @@
     <b><i>Home Page</i></b><br>
     ———————————————————————————————————<br>
   </p>
-  <img src="public/assets/images/home page.png" alt="Fluffy Cafe Home Page">
+  <img src="public/assets/images/home Page.png" alt="Fluffy Cafe Home Page">
   <br><br><br>
   <p>
     ———————————————————————————————————<br>
