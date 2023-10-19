@@ -35,7 +35,14 @@
     ———————————————————————————————————<br>
   </p>
   <img src="public/assets/images/Operation Hours.png" alt="Operation Hour & Footer Page">
+  <br><br><br>
   <p>
+    ———————————————————————————————————<br>
+    <b><i>Admin Dashboard</i></b><br>
+    ———————————————————————————————————<br>
+  </p>
+  
+  <img src="public/assets/images/admin_dashboard.png" alt="Admin Dashboard">
   <br>
 </div>
 
