@@ -46,9 +46,9 @@ Route::get('/admin/dashboard', function () {
 
 Route::controller(staffController::class)->group(function(){
     Route::get('/admin/dashboard/create', 'create')->name('admin.create');
-    Route::get('/admin/dashboard/create/action', 'store')->name('admin.store');
+    Route::post('/admin/dashboard/create/action', 'store')->name('admin.store');
     Route::get('/admin/dashboard/edit/{id}', 'edit')->name('admin.edit');
-    Route::get('/admin/dashboard/edit/{id}/action', 'update')->name('admin.update');
+    Route::post('/admin/dashboard/edit/{id}/action', 'update')->name('admin.update');
     Route::post('/admin/dashboard/delete/{id}/action', 'delete')->name('admin.delete');
 });
 
