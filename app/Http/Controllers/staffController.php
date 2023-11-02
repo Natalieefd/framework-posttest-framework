@@ -49,8 +49,8 @@ class staffController extends Controller
             'jabatan' => 'required|string',
         ]);
 
-        $mahasiswa = staff::findOrFail($id);
-        $mahasiswa->update([
+        $staff = staff::findOrFail($id);
+        $staff->update([
             'username' => $request->username,
             'password' => $request->password,
             'nama' => $request->nama,
