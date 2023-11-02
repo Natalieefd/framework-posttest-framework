@@ -8,7 +8,8 @@ export default {
     theme: {
     extend: {
         colors: {
-            cream: "#ece1d9",
+            cream: "#ECE1D9",
+            seashell: "#F5EBE5",
             customTeal: "#053d3c",
             },
         },

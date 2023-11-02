@@ -13,7 +13,7 @@
             <a href="#" class=" border-cream border-2 rounded-full">
                 <p class="py-2 px-4 text-sm font-poppins font-medium text-cream capitalize">order now</p>
             </a>
-            <a href="#" class=" bg-cream border-0 rounded-full">
+            <a href="<?php echo e(route('login')); ?>" class=" bg-cream border-0 rounded-full">
                 <p class="py-2 px-4 text-sm font-poppins font-medium text-primary capitalize">login</p>
             </a>
         </div>
